@@ -1,0 +1,12 @@
+D:\Visual Studio\Calculator\CalculatorApps\bin\Debug\CalculatorApps.exe.config
+D:\Visual Studio\Calculator\CalculatorApps\bin\Debug\CalculatorApps.exe
+D:\Visual Studio\Calculator\CalculatorApps\bin\Debug\CalculatorApps.pdb
+D:\Visual Studio\Calculator\CalculatorApps\obj\Debug\CalculatorApps.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Calculator\CalculatorApps\obj\Debug\CalculatorApps.Form1.resources
+D:\Visual Studio\Calculator\CalculatorApps\obj\Debug\CalculatorApps.Properties.Resources.resources
+D:\Visual Studio\Calculator\CalculatorApps\obj\Debug\CalculatorApps.csproj.GenerateResource.Cache
+D:\Visual Studio\Calculator\CalculatorApps\obj\Debug\CalculatorApps.exe
+D:\Visual Studio\Calculator\CalculatorApps\obj\Debug\CalculatorApps.pdb
+D:\Visual Studio\CalculatorApps\bin\Debug\CalculatorApps.exe.config
+D:\Visual Studio\CalculatorApps\obj\Debug\CalculatorApps.exe
+D:\Visual Studio\CalculatorApps\obj\Debug\CalculatorApps.pdb
